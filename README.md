@@ -12,6 +12,9 @@
 <img align="right" height="150" src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp"  />
 
 ###
+###
+<a href="https://gitroll.io/profile/us9Rt96T7q1NJkAewfZjttyoF4Nv2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/us9Rt96T7q1NJkAewfZjttyoF4Nv2" alt="GitRoll Profile Badge"/></a>
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
