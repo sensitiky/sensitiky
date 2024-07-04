@@ -1,4 +1,4 @@
-<h2 align="left">Hello👋! My name is Mario and I'm a Full Stack web developer from Argentina.</h2>
+<h2 align="left">I'm Mario a Full Stack web developer from Argentina.</h2>
 
 ###
 
