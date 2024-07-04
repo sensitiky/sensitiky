@@ -6,7 +6,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sensitiky&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<a href="https://gitroll.io/profile/us9Rt96T7q1NJkAewfZjttyoF4Nv2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/us9Rt96T7q1NJkAewfZjttyoF4Nv2&width=320&heigth=320" alt="GitRoll Profile Badge"/></a>
+<a href="https://gitroll.io/profile/us9Rt96T7q1NJkAewfZjttyoF4Nv2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/us9Rt96T7q1NJkAewfZjttyoF4Nv2" alt="GitRoll Profile Badge"/></a>
 
 
 <div align="left">
