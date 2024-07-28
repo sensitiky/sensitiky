@@ -121,13 +121,9 @@
     />
   </a>
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    
-    
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="nestjs"
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="nestjs"
     width="40"
-    height="40"/>
-          
-          
+    height="40"/>      
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
