@@ -9,7 +9,13 @@
   - ⚡ Fun fact I live my daily life with impostor
   syndrome.
 </div>
-
+<p align="center">
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=sensitiky&show_icons=true&locale=en&layout=compact"
+    alt="sensitiky"
+  />
+</p>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
@@ -181,12 +187,4 @@
       height="40"
     />
   </a>
-</p>
-
-<p align="center">
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=sensitiky&show_icons=true&locale=en&layout=compact"
-    alt="sensitiky"
-  />
 </p>
