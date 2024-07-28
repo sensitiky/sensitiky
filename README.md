@@ -1,20 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mario Correa</h1>
 <h3 align="center">A passionate Full Stack Developer from Argentina</h3>
-<div align="left">
+<div align="center">
   - 🔭 I’m currently working on Blogchain 
-  - 🌱 I’m currently learning Android
-  Development 
+  - 🌱 I’m currently learning Android Development 
   - 👯 I’m looking to collaborate on Freelance Projects 
-  - 💬 Ask me
-  about NestJS, NextJS, Kotlin,TypeScript
-  - 📫 How to reach me
-  mariomcorrea3@gmail.com 
-  - ⚡ Fun fact I live my daily life with impostor
-  syndrome.
+  - 💬 Ask me about NestJS, NextJS, Kotlin,TypeScript
+  - 📫 How to reach me mariomcorrea3@gmail.com 
+  - ⚡ Fun fact I live my daily life with impostor syndrome.
 </div>
-<h3 align="center">Connect with me:</h3>
-<p align="center"></p>
-
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
@@ -127,9 +120,9 @@
   </a>
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
     
-    <i class="devicon-nestjs-original colored" alt="nestjs"
+    <img class="devicon-nestjs-original colored" alt="nestjs"
     width="40"
-    height="40" ></i>
+    height="40" ></img>
           
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
