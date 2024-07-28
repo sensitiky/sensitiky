@@ -2,10 +2,15 @@
 <h3 align="center">Full Stack Developer from Argentina</h3>
 <div align="left">
   - 💻 I’m currently working on Blogchain 
+  
   - 🌱 I’m currently learning Android Development 
+  
   - 👨‍💻 I’m looking to collaborate on Freelance Projects 
+ 
   - 💬 Ask me about NestJS, NextJS, Kotlin,TypeScript
+  
   - 📫 How to reach me mariomcorrea3@gmail.com 
+  
   - ⚡ Fun fact I live my daily life with impostor
   syndrome.
 </div>
