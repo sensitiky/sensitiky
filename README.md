@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mario Correa</h1>
 <h3 align="center">Full Stack Developer from Argentina</h3>
-<div align="left">
+<div align="center">
+  
   - 💻 I’m currently working on Blogchain 
   
   - 🌱 I’m currently learning Android Development 
