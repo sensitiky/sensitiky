@@ -1,12 +1,17 @@
 <h1 align="center">Hi 👋, I'm Mario Correa</h1>
 <h3 align="center">A passionate Full Stack Developer from Argentina</h3>
-
-- 🔭 I’m currently working on **Blogchain** - 🌱 I’m currently learning
-**Android Development** - 👯 I’m looking to collaborate on **Freelance
-Projects** - 💬 Ask me about **NestJS, NextJS, Kotlin,TypeScript** - 📫 How to
-reach me **mariomcorrea3@gmail.com** - ⚡ Fun fact **I live my daily life with
+<div align="center">
+- 🔭 I’m currently working on **Blogchain** 
+- 🌱 I’m currently learning
+**Android Development** 
+- 👯 I’m looking to collaborate on **Freelance
+Projects** 
+- 💬 Ask me about **NestJS, NextJS, Kotlin,TypeScript** 
+- 📫 How to
+reach me **mariomcorrea3@gmail.com** 
+- ⚡ Fun fact **I live my daily life with
 impostor syndrome.**
-
+</div>
 <h3 align="center">Connect with me:</h3>
 <p align="center"></p>
 
@@ -186,7 +191,7 @@ impostor syndrome.**
   </a>
 </p>
 
-<p>
+<p align="center">
   <img
     align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=sensitiky&show_icons=true&locale=en&layout=compact"
