@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mario Correa</h1>
 <h3 align="center">A passionate Full Stack Developer from Argentina</h3>
-<div align="center">
+<div align="left">
   - 🔭 I’m currently working on Blogchain 
   - 🌱 I’m currently learning Android
   Development 
@@ -126,12 +126,11 @@
     />
   </a>
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"
-      alt="nestjs"
-      width="40"
-      height="40"
-    />
+    
+    <i class="devicon-nestjs-original colored" alt="nestjs"
+    width="40"
+    height="40" ></i>
+          
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
