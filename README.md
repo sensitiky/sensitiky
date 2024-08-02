@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer from Argentina</h3>
 <div align="center">
   
-  💻 I’m currently working on Blogchain 
+  💻 I’m currently working on myself
   
   🌱 I’m currently learning Android Development 
   
