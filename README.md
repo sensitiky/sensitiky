@@ -2,9 +2,16 @@
 <h3 align="center">Full Stack Developer from Argentina</h3>
 
 <div align="center">
+  ### Light Mode:
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=500&color=F7F7F7&center=true&vCenter=true&width=440&height=45&lines=💻+Passionate+Full+Stack+Developer;🌱+Currently+learning+Android+Development;👨‍💻+Eager+to+collaborate+on+Freelance+Projects;💬+Ask+me+about+NestJS%2C+NextJS%2C+Kotlin%2CTypeScript;⚡+Fun+fact%3A+I+live+with+impostor+syndrome"
-    alt="Typing SVG"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=500&color=000000&center=true&vCenter=true&width=700&height=60&lines=💻+Passionate+Developer;📱+Learning+Android+Development;👨🏽‍💻+Predisposed+to+collaborate+on+Freelance+Projects;⚡+Fun+fact%3A+I+live+with+impostor+syndrome"
+    alt="Typing SVG in Light Mode"
+  />
+
+  ### Dark Mode:
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=500&color=FFFFFF&center=true&vCenter=true&width=700&height=60&lines=💻+Passionate+Developer;📱+Learning+Android+Development;👨🏽‍💻+Predisposed+to+collaborate+on+Freelance+Projects;⚡+Fun+fact%3A+I+live+with+impostor+syndrome"
+    alt="Typing SVG in Dark Mode"
   />
 
   <br /><br />
