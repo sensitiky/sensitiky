@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/senstiky/sensitiky/main/name.svg" alt="Mario Correa" />
+  <img src="https://raw.githubusercontent.com/sensitiky/sensitiky/main/name.svg" alt="Mario Correa" />
 </h1>
 <h2 align="center">Developer from Argentina</h2>
 
@@ -57,8 +57,7 @@
     </a>
     <a
       href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-      target="_blank"
-      rel="noreferrer"
+      target="_blank" rel="noreferrer"
     >
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
