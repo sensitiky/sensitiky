@@ -1,17 +1,20 @@
-<h1 align="center">Hi 👋, I'm Mario Correa</h1>
-<h3 align="center">Full Stack Developer from Argentina</h3>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/senstiky/sensitiky/main/name.svg" alt="Mario Correa" />
+</h1>
+<h2 align="center">Developer from Argentina</h2>
 
 <div align="center">
-  ### Light Mode:
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=500&color=000000&center=true&vCenter=true&width=700&height=60&lines=💻+Passionate+Developer;📱+Learning+Android+Development;👨🏽‍💻+Predisposed+to+collaborate+on+Freelance+Projects;⚡+Fun+fact%3A+I+live+with+impostor+syndrome"
-    alt="Typing SVG in Light Mode"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=500&color=8A2BE2&center=true&vCenter=true&width=700&height=60&lines=📱+Android+Development"
+    alt="Typing SVG"
   />
-
-  ### Dark Mode:
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=500&color=FFFFFF&center=true&vCenter=true&width=700&height=60&lines=💻+Passionate+Developer;📱+Learning+Android+Development;👨🏽‍💻+Predisposed+to+collaborate+on+Freelance+Projects;⚡+Fun+fact%3A+I+live+with+impostor+syndrome"
-    alt="Typing SVG in Dark Mode"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=500&color=8A2BE2&center=true&vCenter=true&width=700&height=60&lines=🖥+Web+Development"
+    alt="Typing SVG"
+  />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=500&color=8A2BE2&center=true&vCenter=true&width=700&height=60&lines=💻+Tech+Enthusiast"
+    alt="Typing SVG"
   />
 
   <br /><br />
