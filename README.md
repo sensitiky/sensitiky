@@ -5,7 +5,7 @@
 
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=500&color=8A2BE2&center=true&vCenter=true&width=700&height=60&lines=📱+Android+Development"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=500&color=8A2BE2&center=true&vCenter=true&width=700&height=60&lines=📱+Mobile+Development"
     alt="Typing SVG"
   />
   <img
