@@ -1,15 +1,15 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/sensitiky/sensitiky/main/name.svg" alt="Mario Correa" />
 </h1>
-<h2 align="center">Developer from Argentina</h2>
 
 <div align="center">
+  <h2 align="center">Developer from Argentina</h2>
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=500&color=8A2BE2&center=true&vCenter=true&width=700&height=60&lines=📱+Mobile+Development"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=500&color=8A2BE2&center=true&vCenter=true&width=700&height=60&lines=📱+Mobile+Developer"
     alt="Typing SVG"
   />
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=500&color=8A2BE2&center=true&vCenter=true&width=700&height=60&lines=🖥+Web+Development"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=500&color=8A2BE2&center=true&vCenter=true&width=700&height=60&lines=🖥+Web+Developer"
     alt="Typing SVG"
   />
   <img
@@ -51,17 +51,6 @@
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
         alt="css3"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a
-      href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-      target="_blank" rel="noreferrer"
-    >
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-        alt="javascript"
         width="40"
         height="40"
       />
